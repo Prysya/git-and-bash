@@ -1,8 +1,4 @@
-## Проект по темам Git и "Командная строка"
-
-<p align="center">
-    <img alt="Version 0.0.1" src="https://img.shields.io/badge/Version-0.0.1-blue.svg" />
-</p>
+## Проект по темам Git и "Командная строка" <img alt="Version 0.0.2" src="https://img.shields.io/badge/Version-0.0.2-blue.svg" />
 
 Форма регистрации с валидацией при помощи регулярных выражений.
 
